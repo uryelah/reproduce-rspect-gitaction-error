@@ -56,6 +56,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  bundler (~> 2.1.4)
   rest-client (~> 2.1)
   rspec (~> 3.9)
   rubocop (~> 0.81.0)
